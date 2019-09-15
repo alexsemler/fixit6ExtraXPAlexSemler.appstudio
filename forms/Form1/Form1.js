@@ -10,5 +10,6 @@ if (choice == "sum") {
   alert("The sum of the 10 numbers is " + sum + ".")
 } else if (choice == "average"){
   alert("The average of the 10 numbers is " + average + ".")
-   }
+} else {
+  alert("You didn't choose either sum or average. Try again.")
 
